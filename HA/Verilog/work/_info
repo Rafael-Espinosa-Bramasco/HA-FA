@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/rafae/OneDrive/Documentos/Proyectos/HA-FA
+vHA
+Z0 !s110 1692764786
+!i10b 1
+!s100 73<[7ECN_bP>_X8K2HZiN1
+IdMOg[fCAfdBlAfBgalaG`0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/rafae/OneDrive/Documentos/Proyectos/HA-FA/HA/Verilog
+w1692761633
+8HA.v
+FHA.v
+L0 5
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1692764786.000000
+Z5 !s107 HA.v|C:/Users/rafae/OneDrive/Documentos/Proyectos/HA-FA/HA/Verilog/HA_TB.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rafae/OneDrive/Documentos/Proyectos/HA-FA/HA/Verilog/HA_TB.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@h@a
+vHA_TB
+R0
+!i10b 1
+!s100 DOLG;c;2dV5Hg3^hh`@]91
+I[TKo:l44HR=WBA:Cg79RW0
+R1
+R2
+w1692764781
+8C:/Users/rafae/OneDrive/Documentos/Proyectos/HA-FA/HA/Verilog/HA_TB.v
+FC:/Users/rafae/OneDrive/Documentos/Proyectos/HA-FA/HA/Verilog/HA_TB.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+n@h@a_@t@b

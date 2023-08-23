@@ -1,0 +1,16 @@
+C:/Users/rafae/OneDrive/Documentos/Proyectos/HA-FA/HA/Verilog/HA.v {1 {vlog -work work -stats=none C:/Users/rafae/OneDrive/Documentos/Proyectos/HA-FA/HA/Verilog/HA.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HA
+
+Top level modules:
+	HA
+
+} {} {}} C:/Users/rafae/OneDrive/Documentos/Proyectos/HA-FA/HA/Verilog/HA_TB.v {1 {vlog -work work -stats=none C:/Users/rafae/OneDrive/Documentos/Proyectos/HA-FA/HA/Verilog/HA_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HA
+-- Compiling module HA_TB
+
+Top level modules:
+	HA_TB
+
+} {} {}}

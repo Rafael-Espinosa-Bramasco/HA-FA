@@ -1,0 +1,38 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# Project file C:/Users/rafae/OneDrive/Documentos/Proyectos/Half-Adder/HAX001VA/Verilog/HAX001VA.mpf was not found.
+# Unable to open project.
+# Loading project HA-FA
+# Compile of HA.v was successful.
+# Compile of HA_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.HA_TB
+# vsim -gui work.HA_TB 
+# Start time: 22:24:22 on Aug 22,2023
+# Loading work.HA_TB
+# Loading work.HA
+add wave -position insertpoint sim:/HA_TB/*
+quit -sim
+# End time: 22:24:54 on Aug 22,2023, Elapsed time: 0:00:32
+# Errors: 0, Warnings: 0
+# Compile of HA.v was successful.
+# Compile of HA_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of HA.v was successful.
+# Compile of HA_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.HA_TB
+# vsim -gui work.HA_TB 
+# Start time: 22:26:34 on Aug 22,2023
+# Loading work.HA_TB
+# Loading work.HA
+add wave -position insertpoint sim:/HA_TB/*
+run
+run
+run
+run
+# ** Note: $finish    : C:/Users/rafae/OneDrive/Documentos/Proyectos/HA-FA/HA/Verilog/HA_TB.v(32)
+#    Time: 400 ps  Iteration: 0  Instance: /HA_TB
+# 1
+# Break in Module HA_TB at C:/Users/rafae/OneDrive/Documentos/Proyectos/HA-FA/HA/Verilog/HA_TB.v line 32
+# End time: 22:39:54 on Aug 22,2023, Elapsed time: 0:13:20
+# Errors: 0, Warnings: 0
