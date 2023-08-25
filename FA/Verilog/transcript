@@ -1,0 +1,20 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# Loading project HA-FA
+# reading C:/intelFPGA/18.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project FA
+# Compile of FA.v was successful.
+# Compile of FA_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+# Load canceled
+vsim -gui work.FA
+# vsim -gui work.FA 
+# Start time: 18:52:50 on Aug 24,2023
+# Loading work.FA
+add wave -position insertpoint sim:/FA/*
+force -freeze sim:/FA/A 1 0
+force -freeze sim:/FA/B 1 0
+force -freeze sim:/FA/Ci 1 0
+run
+# End time: 18:53:48 on Aug 24,2023, Elapsed time: 0:00:58
+# Errors: 0, Warnings: 0
