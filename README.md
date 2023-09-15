@@ -35,3 +35,6 @@ FA stands for Full Adder, it is like the HA but it includes a "carry in" input.
 
 ### Analisys
 A full adder is just combine 2 half adder, thats it.
+
+### 
+- Rafael Espinosa
